@@ -1,3 +1,4 @@
+'''
 customer='Arun'
 product='Laptop'
 price=50000.00
@@ -18,3 +19,13 @@ print("Product Details :",product)
 print("Price:", price)
 print("Quantity :", quantity)
 print("FInal Bill:",total)
+''''
+
+a=10
+b=20 
+
+if a>b:
+print ("a is greater than b")
+
+else :
+print ("false")
